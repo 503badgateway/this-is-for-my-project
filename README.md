@@ -1,1 +1,1 @@
-# this-is-for-my-project
+Just a silly website for a little competition :))
